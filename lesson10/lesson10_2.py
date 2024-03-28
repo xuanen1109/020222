@@ -1,4 +1,4 @@
-from tools  import get_names,get_scores
+from tools import get_names, get_scores
 import pyinputplus as pyip
 from pprint import pprint
 
